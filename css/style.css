@@ -68,7 +68,9 @@ hr {
     margin-right: 30px;
 }
 .img2{
-    
+    width: 20%;
+    float: right;
+    margin-left: 30px;
 }
 .img3{
     width: 20%;
