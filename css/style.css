@@ -1,0 +1,190 @@
+body {
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+.top-container {
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+}
+h1 {
+    color: #66bfbf;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: "Sacramento", cursive;
+}
+h2 {
+    color: #66bfbf;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+} 
+
+.right{
+    position: absolute;
+    height: 150px;
+    padding: 0;
+    right: 200px;
+    top: 100px;
+}
+.left{
+    position: absolute;
+    left: 200px;
+    bottom: 300     px;
+    height: 150px;
+}
+.center{
+    height: 450px;
+}
+.middle-container{
+    margin: 100px 0;
+}
+.myimg{
+    border-radius: 50%;
+    height: 200px;
+}
+p {
+    line-height: 2;
+}
+hr {
+    border: dotted #74b6b6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+.skill-row {
+    position: relative;
+    margin: 100px auto 150px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+.img1 {
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+.img2{
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+}
+.img3{
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+.img4{
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+}
+.project-row {
+    position: relative;
+    margin: 100px auto 150px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+.pro1{
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+.pro2{
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+}
+.pro3{
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+h3 {
+    color: #11999e;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+}
+.certificates{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.cer1{
+    width: 50%;
+    float: left;
+    margin-right: 30px;
+}
+.cer-link{
+    padding: 10px;
+    color: white;
+    position: relative;
+    top: 20px;
+    margin: 100px auto 10px auto;
+    background-color: #66bfbf;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+.cer-link:hover{
+    background-color: #3e7e7e;
+    font-size: 1.2rem;
+}
+.contact-me{
+    margin: 70px;
+
+}
+.contact-msg{
+    margin: 40px auto;
+}
+.chat{
+    margin: 40px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+.btn:hover {
+    background-color: #3e7e7e;
+    font-size: 1.2rem;
+}
+.btn {
+    padding: 10px;
+    color: white;
+    position: relative;
+    top: 20px;
+    margin: 100px auto 10px auto;
+    background-color: #66bfbf;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+a{
+    text-decoration: none;
+}
+.bottom-container {
+    position: relative;
+    top: 16px;
+    background-color: #66bfbf;
+    padding: 50px 0 20px 0;
+}
+.footer-link {
+    margin: 10px 15px 10px 15px;
+    color: #F3EFE0;
+    transition: 0.3s;
+}
+.footer-link:hover{
+    color: wheat;
+    font-size: 1.2rem;
+}
+.per {
+    position: relative;
+    top: 20px;
+    color: #F3EFE0;
+    font-size: 14px;
+    font-family: serif;
+    padding: 20px 0;
+    text-decoration: none;
+}
