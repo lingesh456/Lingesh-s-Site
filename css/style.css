@@ -9,12 +9,12 @@ nav{
     background-color: #66bfbf;
     padding: 20px;
     margin: 0;
-    margin-left:25%;
 }
 nav ul{
     margin: 0;
     display: flex;
     justify-content:space-around;
+    margin-left:25%;
 }
 nav ul li{
     list-style: none;
